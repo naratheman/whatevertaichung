@@ -2,7 +2,7 @@
 
 Whatever Homestyle Cuisine & Bar is located in Taichung, Taiwan. 
 Currently in progress, will be completing this website very soon! 
-Right now, you can check them out on instagram: @whatever.bar.taichung(https://www.instagram.com/whatever.bar.taichung/)
+Right now, you can check them out on instagram: @[whatever.bar.taichung](https://www.instagram.com/whatever.bar.taichung/)
 
 ## Getting Started with Create React App
 
