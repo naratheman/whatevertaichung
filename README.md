@@ -1,4 +1,4 @@
-# Welcome to my project page of building Whatever Bar located in Taichung's website! 
+# Welcome to my project page of building Whatever Homestyle Cuisine & Bar's website! 
 
 Whatever Homestyle Cuisine & Bar is located in Taichung, Taiwan. 
 Currently in progress, will be completing this website very soon! 
